@@ -1,1 +1,2 @@
-+143831.xyz
++.143831.xyz
++.jsdelivr.net
