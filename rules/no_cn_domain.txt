@@ -1,2 +1,5 @@
-+.wiki.metacubex.one
-+.zoneabc.net
+payload:
+# 明日方舟自动化Maa官网wiki
+- '+.wiki.metacubex.one'
+# 免费域名网址
+- '+.zoneabc.net'
