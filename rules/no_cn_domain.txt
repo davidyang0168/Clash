@@ -1,1 +1,2 @@
-.wiki.metacubex.one
++.wiki.metacubex.one
++.zoneabc.net
