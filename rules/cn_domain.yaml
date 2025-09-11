@@ -1,0 +1,5 @@
+payload:
+# 自用域名
+- ‘+.143831.xyz’
+# GitHub CDN
+- ‘+.jsdelivr.net’
