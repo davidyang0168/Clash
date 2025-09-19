@@ -1,1 +1,7 @@
-
+payload:
+- 'stun.l.google.com'
+- 'swscan.apple.com'
+- 'swquery.apple.com'
+- 'swdownload.apple.com'
+- 'swcdn.apple.com'
+- 'swdist.apple.com'
