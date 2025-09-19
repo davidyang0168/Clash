@@ -1,9 +1,9 @@
 payload:
 # 谷歌/谷歌商店
 - 'stun.l.google.com'
-- '+.googleapis.cn'
-- '+.googleapis.com'
-- '+.xn--ngstr-lra8j.com'
+# - '+.googleapis.cn'
+# - '+.googleapis.com'
+# - '+.xn--ngstr-lra8j.com'
 # 苹果
 - 'swscan.apple.com'
 - 'swquery.apple.com'
