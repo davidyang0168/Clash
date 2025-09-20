@@ -1,4 +1,7 @@
 # 应用内下载文件使用，搭配负载均衡策略组，最大效率利用节点带宽
 payload:
+# mac
 - PROCESS-NAME, Downie 4
 - PROCESS-NAME, aria2c
+# 安卓日服蔚蓝档案下载
+- DOMAIN-SUFFIX, bluearchiveyostar.com
