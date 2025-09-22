@@ -1,12 +1,4 @@
 payload:
-# 谷歌/谷歌商店
-- 'stun.l.google.com'
-# 苹果
-- 'swscan.apple.com'
-- 'swquery.apple.com'
-- 'swdownload.apple.com'
-- 'swcdn.apple.com'
-- 'swdist.apple.com'
 # 稀饭动漫
 - '+.lain.bgm.tv'
 - '+.pan.wo.cn'
