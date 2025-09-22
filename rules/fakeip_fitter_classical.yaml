@@ -1,4 +1,4 @@
 payload:
-- PROCESS-NAME, Downie 4
-- PROCESS-NAME, aria2c
+# - PROCESS-NAME, Downie 4
+# - PROCESS-NAME, aria2c
 - PROCESS-NAME, adb
