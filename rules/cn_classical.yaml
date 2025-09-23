@@ -1,4 +1,17 @@
 payload:
+# mac
 - PROCESS-NAME,Ani
 - PROCESS-NAME,adb
+# android
 - PROCESS-NAME,com.netease.cloudmusic
+- PROCESS-NAME,com.tencent.mobileqq
+- PROCESS-NAME,com.x8bit.bitwarden
+- PROCESS-NAME,tv.danmaku.bili
+- PROCESS-NAME,me.him188.ani
+- PROCESS-NAME,com.predidit.kazumi
+- PROCESS-NAME,com.tencent.mm
+- PROCESS-NAME,com.neowizgames.game.browndust2
+- PROCESS-NAME,com.YostarJP.BlueArchive
+- PROCESS-NAME,com.hypergryph.arknights
+- PROCESS-NAME,com.HoYoverse.Nap
+- PROCESS-NAME,com.HoYoverse.hkrpgoversea
