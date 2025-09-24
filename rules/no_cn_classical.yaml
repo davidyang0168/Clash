@@ -1,6 +1,5 @@
 payload:
 # android
-- PROCESS-NAME,com.termux
 - PROCESS-NAME,com.termux.nix
 - PROCESS-NAME,org.fdroid.fdroid
 - PROCESS-NAME,com.perol.pixez
