@@ -5,3 +5,5 @@ payload:
 - '+.xfvod.pro'
 # cf tunnel
 - '+.argotunnel.com'
+# 自用域名
+- '+.143831.xyz'
