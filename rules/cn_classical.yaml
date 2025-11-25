@@ -3,6 +3,8 @@ payload:
 - PROCESS-NAME,Ani
 - PROCESS-NAME,adb
 - PROCESS-NAME,LyricsX
+- PROCESS-NAME,cfnat-darwin-amd64-*
+
 # android
 - PROCESS-NAME,com.netease.cloudmusic
 - PROCESS-NAME,com.tencent.mobileqq
