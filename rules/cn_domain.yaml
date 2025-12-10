@@ -27,4 +27,6 @@ payload:
 - '+.bluearchive.me'
 # cf tunnel
 - '+.argotunnel.com'
+# webnote云便签
+- '+.webnote.cc'
 
