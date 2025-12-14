@@ -12,5 +12,5 @@ payload:
 - PROCESS-NAME,me.him188.ani
 - PROCESS-NAME,com.predidit.kazumi
 - PROCESS-NAME,com.tencent.mm
-- PROCESS-NAME,com.YostarJP.BlueArchive
+# - PROCESS-NAME,com.YostarJP.BlueArchive
 - PROCESS-NAME,com.hypergryph.arknights
