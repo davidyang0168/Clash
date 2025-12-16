@@ -1,6 +1,8 @@
 payload:
 # 自建导航页
 - DOMAIN,index.143831.xyz
+# mac
+- PROCESS-NAME,Telegram
 # android
 - PROCESS-NAME,com.termux.nix
 - PROCESS-NAME,org.fdroid.fdroid
