@@ -8,5 +8,5 @@ payload:
 - PROCESS-NAME,org.fdroid.fdroid
 - PROCESS-NAME,com.perol.pixez
 - PROCESS-NAME,com.zy.wqmt.global
-- PROCESS-NAME,com.YostarJP.BlueArchive
+#- PROCESS-NAME,com.YostarJP.BlueArchive
 - PROCESS-NAME,com.nexon.bluearchive
