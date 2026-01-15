@@ -8,7 +8,7 @@ payload:
 - PROCESS-NAME,com.netease.cloudmusic
 - PROCESS-NAME,com.tencent.mobileqq
 - PROCESS-NAME,com.x8bit.bitwarden
-- PROCESS-NAME,tv.danmaku.bili
+#- PROCESS-NAME,tv.danmaku.bili
 #- PROCESS-NAME,me.him188.ani
 - PROCESS-NAME,com.predidit.kazumi
 - PROCESS-NAME,com.tencent.mm
