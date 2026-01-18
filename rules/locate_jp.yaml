@@ -1,1 +1,8 @@
-
+payload:
+# android
+## 明日方舟
+- PROCESS-NAME,com.YoStarJP.Arknights
+## 蔚蓝档案
+- PROCESS-NAME,com.YostarJP.BlueArchive
+## 谷歌应用商店
+- PROCESS-NAME,com.android.vending
