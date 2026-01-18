@@ -3,6 +3,14 @@ payload:
 - '+.143831.xyz'
 # GitHub CDN
 - '+.jsdelivr.net'
+# 次元城
+- '+.cycmedia.net'
+- '+.cycapi.org'
+- '+.cycani.org'
+- '+.byteimg.com'
+- '+.cycimg.me'
+- '+.cycanime.com'
+- '+.byteimg.com'
 # 稀饭动漫
 - '+.dm.xifanacg.com'
 - '+.lain.bgm.tv'
