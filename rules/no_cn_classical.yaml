@@ -10,3 +10,5 @@ payload:
 - PROCESS-NAME,com.zy.wqmt.global
 #- PROCESS-NAME,com.YostarJP.BlueArchive
 - PROCESS-NAME,com.nexon.bluearchive
+## 明日方舟
+##- PROCESS-NAME,com.YoStarJP.Arknights
