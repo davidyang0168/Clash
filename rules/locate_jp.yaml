@@ -5,4 +5,4 @@ payload:
 ## 悠星游戏登录接口
 - DOMAIN-SUFFIX,jp-sdk-api.yostarplat.com
 ## spotify
-- DOMAIN-SUFFIX,com.spotify.music
+#- DOMAIN-SUFFIX,com.spotify.music
