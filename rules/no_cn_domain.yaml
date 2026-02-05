@@ -5,3 +5,5 @@ payload:
 - '+.zoneabc.net'
 # 油管分享链接网页验证输入密码
 - '+.paste.to'
+# 自用域名
+- '+.143831.xyz'
