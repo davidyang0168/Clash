@@ -1,7 +1,7 @@
 payload:
 # android
 # 谷歌应用商店
-- PROCESS-NAME,com.android.vending
+#- PROCESS-NAME,com.android.vending
 ## 悠星游戏登录接口
 - DOMAIN-SUFFIX,jp-sdk-api.yostarplat.com
 ## spotify
