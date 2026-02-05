@@ -1,6 +1,6 @@
 payload:
 # 自用域名
-- '+.143831.xyz'
+#- '+.143831.xyz'
 # GitHub CDN
 - '+.jsdelivr.net'
 # 次元城
