@@ -3,6 +3,7 @@ payload:
 - PROCESS-NAME,Ani
 - PROCESS-NAME,adb
 - PROCESS-NAME,LyricsX
+- PROCESS-NAME,cyc-desktop Helper
 
 # android
 - PROCESS-NAME,com.netease.cloudmusic
@@ -11,6 +12,7 @@ payload:
 - PROCESS-NAME,tv.danmaku.bili
 ## 次元城
 - PROCESS-NAME,com.yaxisvip.pubgtool.iueg
+- PROCESS-NAME,com.lutongnet.mobie.qgdj.cy.yc
 #- PROCESS-NAME,me.him188.ani
 - PROCESS-NAME,com.predidit.kazumi
 - PROCESS-NAME,com.tencent.mm
