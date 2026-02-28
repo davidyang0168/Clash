@@ -10,7 +10,6 @@ payload:
 - PROCESS-NAME,com.tencent.mobileqq
 - PROCESS-NAME,com.x8bit.bitwarden
 - PROCESS-NAME,tv.danmaku.bili
-- PROCESS-NAME,app.anich
 ## 次元城
 #- PROCESS-NAME,com.yaxisvip.pubgtool.iueg
 - PROCESS-NAME,com.lutongnet.mobie.qgdj.cy.yc
