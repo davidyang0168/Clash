@@ -3,6 +3,8 @@ payload:
 #- '+.143831.xyz'
 # GitHub CDN
 - '+.jsdelivr.net'
+#stash
+- '+.clashios.app'
 # 次元城
 - '+.cycmedia.net'
 - '+.cycapi.org'
