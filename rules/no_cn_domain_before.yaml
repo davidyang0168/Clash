@@ -1,4 +1,8 @@
 payload:
 #广告误杀
 - '+.reallyfreegeoip.org'
-#gangumi
+# bangumi
+- '+.bgm.tv'
+- '+.bangumi.tv'
+- '+.chii.in'
+- '+.li350-137.members.linode.com'
