@@ -13,7 +13,7 @@ payload:
 ## 次元城
 #- PROCESS-NAME,com.yaxisvip.pubgtool.iueg
 - PROCESS-NAME,com.lutongnet.mobie.qgdj.cy.yc
-#- PROCESS-NAME,me.him188.ani
+- PROCESS-NAME,me.him188.ani
 - PROCESS-NAME,com.predidit.kazumi
 - PROCESS-NAME,com.tencent.mm
 - PROCESS-NAME,com.YostarJP.BlueArchive
