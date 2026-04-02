@@ -15,3 +15,6 @@ sudo reboot
 清理 macOS DNS 缓存
 sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
+
+#测试网址访问时间
+curl -o /dev/null -s -w "DNS解析: %{time_namelookup}s\n建立连接: %{time_connect}s\nTLS握手: %{time_appconnect}s\n首字节时间: %{time_starttransfer}s\n总耗时: %{time_total}s\n" https://你的域名
