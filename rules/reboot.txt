@@ -1,0 +1,17 @@
+最粗暴的恢复方式：删掉网络服务再新建（GUI 里可以操作），或者重置整个网络配置：
+sudo rm /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist
+sudo rm /Library/Preferences/SystemConfiguration/preferences.plist
+sudo reboot
+
+
+如果你的目标是 备份当前网络配置，可以手动备份关键的 plist 文件：
+sudo cp /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist ~/NetworkInterfaces.plist.backup
+sudo cp /Library/Preferences/SystemConfiguration/preferences.plist ~/preferences.plist.backup
+这样即使你删除它们，也能恢复：
+sudo cp ~/NetworkInterfaces.plist.backup /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist
+sudo cp ~/preferences.plist.backup /Library/Preferences/SystemConfiguration/preferences.plist
+sudo reboot
+
+清理 macOS DNS 缓存
+sudo dscacheutil -flushcache
+sudo killall -HUP mDNSResponder
